@@ -1,0 +1,15 @@
+{
+  "name": "Passbook",
+  "version": "0.0.1",
+  "description": "Passbook sample app",
+  "main": "app.js",
+  "private":"true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies":{
+      "Express":"3.4.x"
+  }
+}
